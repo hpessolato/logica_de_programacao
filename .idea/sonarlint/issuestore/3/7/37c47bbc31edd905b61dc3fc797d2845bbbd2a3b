@@ -1,0 +1,10 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹­ÇÎıÿÿÿÿ
+[
+java:S1854"9Remove this useless assignment to local variable "tempo".(éíÿÿÿÿÿ8¨¸’¥œ/
+J
+java:S6212"/Declare this local variable with "var" instead.(éíÿÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¯öığ8Õ™”¥œ/
+X	java:S125"<This block of commented-out lines of code should be removed.(Ùí–ë8ê•›¥œ/
+L
+java:S1481"*Remove this unused "tempo" local variable.(éíÿÿÿÿÿ8Ş¼’¥œ/
